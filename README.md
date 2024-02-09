@@ -66,8 +66,8 @@ This next step shows how to mint icp tokens from the locally deployed Ledger can
 - Run the mint script.
 
     ```bash
-    # npm run mint:tokens <amount in e8s> <amount> <wallet address>
-   npm run mint:tokens 5_0000_0000 123525952y5y2835y235788238527358235823857
+    # npm run mint:tokens <amount in e8s> <amount> <dfx address>
+   npm run mint:tokens 5_0000_0000 0a224323dad30bd7587e33534b54acd43496ff4b0318c4f89edaaa3d50ea7b07
     
     # N/B: This mints 5 ICP tokens from the locally deployed ledger to the address.
     ```
