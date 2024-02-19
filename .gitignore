@@ -21,5 +21,3 @@ dist/
 .env
 .azle
 
-ledger.did
-ledger-canister.wasm
